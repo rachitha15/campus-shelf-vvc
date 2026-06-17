@@ -1,0 +1,6 @@
+{
+  "name": "Campus Shelf",
+  "description": "A feed-first mobile book platform with smart AI scanners for campus book exchange and shelf clearance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
